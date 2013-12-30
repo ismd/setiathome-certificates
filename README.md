@@ -1,4 +1,4 @@
 setiathome-certificates
 =======================
 
-This is SETI@home certificate generator
+This is SETI@home certificates generator
